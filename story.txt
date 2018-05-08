@@ -1,0 +1,12 @@
+[Enable-Inventory]
+
+[Room 1]
+THE HOUSE
+There is nothing around!
+
+[Path-to 2 "z"] go north
+[End-Room]
+
+[Room 2]
+abceasfk134345346345
+[End-Room]
