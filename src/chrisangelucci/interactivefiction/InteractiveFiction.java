@@ -25,5 +25,5 @@ public class InteractiveFiction {
 			System.out.println(r.toString());
 		}
 	}
-
+	//why did you steal my grill???
 }
