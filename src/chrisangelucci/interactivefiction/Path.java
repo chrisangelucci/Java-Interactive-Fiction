@@ -31,5 +31,5 @@ public class Path {
 	public String toString(){
 		return "Path[cmd:" + cmd + ",roomId:" + roomId + ",requiredItem:" + requiredItem + "]";
 	}
-	
+	//this code did not work weel, but was well done
 }
